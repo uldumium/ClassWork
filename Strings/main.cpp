@@ -1,6 +1,6 @@
-#include <iostream>
+п»ї#include <iostream>
 
-// Тема урока класс std::string
+// РўРµРјР° СѓСЂРѕРєР° РєР»Р°СЃСЃ std::string
 
 int main()
 {
